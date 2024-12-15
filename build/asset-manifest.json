@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.216d118f.css",
-    "main.js": "/static/js/main.fddbff3a.js",
+    "main.css": "/static/css/main.e1965326.css",
+    "main.js": "/static/js/main.51e2cc1e.js",
     "static/js/453.610362b2.chunk.js": "/static/js/453.610362b2.chunk.js",
+    "static/media/reclaim-logo.svg": "/static/media/reclaim-logo.04de7c8dcb581c564dc3593fb8d5a07d.svg",
     "index.html": "/index.html",
-    "main.216d118f.css.map": "/static/css/main.216d118f.css.map",
-    "main.fddbff3a.js.map": "/static/js/main.fddbff3a.js.map",
+    "main.e1965326.css.map": "/static/css/main.e1965326.css.map",
+    "main.51e2cc1e.js.map": "/static/js/main.51e2cc1e.js.map",
     "453.610362b2.chunk.js.map": "/static/js/453.610362b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.216d118f.css",
-    "static/js/main.fddbff3a.js"
+    "static/css/main.e1965326.css",
+    "static/js/main.51e2cc1e.js"
   ]
 }
